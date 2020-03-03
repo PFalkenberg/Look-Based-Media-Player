@@ -11,6 +11,8 @@ My contribution to this project is the Python code. I used OpenCV with Python to
 You can view a video demo of this program on Youtube at: https://www.youtube.com/watch?v=5PF7ZDY_tms
 
 # How to run
+Program is designed for Windows systems and must be run on Windows 7 or newer.
+
 To run the application:
 - Copy all of the contents of the Release directory to the desired location.
 - Then simply run the "SofwareEngineeringProj.exe" executable
